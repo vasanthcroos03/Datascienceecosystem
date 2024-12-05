@@ -1,2 +1,2 @@
-# Datascienceecosystem
-This is an exercise
+# Fitness data project
+Analyzing data using python.
